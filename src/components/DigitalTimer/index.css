@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.bg {
+  background-image: linear-gradient(toRight, #ffffff, #cffcf1);
+  padding: 30%;
+}
+.bg1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.timerCont {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/digital-timer-elapsed-bg.png');
+  height: 40%;
+  width: 50%;
+}
+.setTimeCont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.countText {
+  background-color: #cffcf1;
+  color: white;
+}
